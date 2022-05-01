@@ -1,4 +1,4 @@
-dwm notes
+
 
 
 #libs
