@@ -34,6 +34,12 @@ sudo apt-get install -y  fonts-noto fonts-noto-color-emoji fonts-noto-cjk fonts-
 
 sudo pip3 install pywal
 
+
+
+#zsh-syntax-highlighting from aur to the destines folder non git version
+
+
+
 #after alll this make all dwm and st and all
 cd $HOME
 git clone --separate-git-dir=$HOME/.dotfiles https://github.com/bugswriter/dotfiles.git tmpdotfiles
